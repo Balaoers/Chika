@@ -1,0 +1,94 @@
+{
+	"stats":[{
+		"normal": ["Dogoo","Tulip","Dogoo-man","Boxer-X"],
+		"dangerous": [],
+		"epic": ["Guard Vermin"]
+	},
+	{
+		"normal": ["Clyde","Ms.Clyde","Pixelvader","Super Otaku","Contracted Angel"],
+		"dangerous": [],
+		"epic": ["Guard Vermin"]
+	},
+	{
+		"normal": ["Cardbird","Sunflower","Pal Shell","Alraune","Purr4","Shoebill"],
+		"dangerous": ["Ancient Dragon","Huge Dogoo"],
+		"epic": ["Hraesvelgr","Black Heart"]
+	},
+	{
+		"normal": ["Terits","Spider","Plum-met","Tokimeki Sister"],
+		"dangerous": ["Boss Lizard","Galakryzer","Phoenix"],
+		"epic": ["Slash Dog"]
+
+	},
+	{
+		"normal": ["Poxvader","Bit Custom","Healing Dogoo","R-4","Matango"],
+		"dangerous": ["Whale","R4i-SDHC","Alkaid"],
+		"epic": ["Killachine"]
+		
+	},
+	{
+		"normal": ["Boomerang","Apeldoom","Lightbulb Angel","WD Head","XDog"],
+		"dangerous": ["Dolphin","Directionless Soldier","Pollux"],
+		"epic": []
+	},
+	{
+		"normal": ["Boxbird","Metal Dogoo","Aluna"],
+		"dangerous": ["Turtle","Land Whale","Big Pirachu"],
+		"epic": []
+	},
+	{
+		"normal": ["Radisher","High Heal Dogoo","Wolf","Horsebird","Swallowtail","Kupokitty"],
+		"dangerous": ["Fenrir Wolf","Obese Dogoo","Judge's Disciple"],
+		"epic": ["Forest Whale"]
+	},
+	{
+		"normal": ["Frozen Skull","Violent Good Girl","Gold Lizard","tPad","Lowee Soldier"],
+		"dangerous": ["Plaid Dolphin","Ice Whale","Mekidrygar"],
+		"epic": ["Ancient Dragon"]
+	},
+	{
+		"normal": ["High Bit Custom","Strange Person","Ruffian Cat","DSTT"],
+		"dangerous": ["Eggplant Rider","Heavy Tank","Wild Pirachu"],
+		"epic": ["Killachine Mk-3","Killachine 1.01"]
+	},
+	{
+		"normal": ["Call Boy","Cold Girl","Lowee Defense Guard","Ice Golem"],
+		"dangerous": ["King Crab","Special Dogoo","Alnair"],
+		"epic": ["Self-Defense System","Item Jammer Pod","Skill Jammer Pod"]
+	},
+	{
+		"normal": ["Call Boy","Cold Girl","Lowee Defense Guard","Ice Golem"],
+		"dangerous": ["King Crab","Special Dogoo"],
+		"epic": ["Fake White Heart"]
+	},
+	{
+		"normal": ["Plom-met","Testri","Cyberfly","Malvader"],
+		"dangerous": ["Cerberus","Cyber Whale","Viral Mareshimo"],
+		"epic": ["Overlod Momus"]
+	},
+	{
+		"normal": ["Magma Boy","Magma Girl","King Boxbird","Volcano Crab","Flame Skeleton","Rafflesia"],
+		"dangerous": ["Bincho","Tiamat","Gebachu"],
+		"epic": ["Fake Purple Heart"]
+	},
+	{
+		"normal": ["Cass Trap","Ganglord Panther","R-4 Custom","Nest Dimension Bit","Bundodo Old Man"],
+		"dangerous": ["Suppression Prototype","Deus Ex Machina","Zeta Herobo"],
+		"epic": ["Fake Black Heart"]
+	},
+	{
+		"normal": ["Invader","Ruin Guardian","Something Tree","Mega Spider"],
+		"dangerous": ["1000 Year Turtle","Saint Whale","Aldebaran"],
+		"epic": ["Fake White Heart"]
+	},
+	{
+		"normal": ["Red Dogoo","Carroteer","Max","Horsebird CAW","Speckle"],
+		"dangerous": ["Dolichorhynchops","Cat Squirrel Rider","Refulus"],
+		"epic": ["Fake Green Heart"]
+	},
+	{
+		"normal": ["Demon Spider","Prince Boxbird","Lizard Knight","Skull"],
+		"dangerous": ["Lost Dragon","Hyperdimension Dogoo","Next-Gen Ricky"],
+		"epic": ["Arfoire","True Arfoire"]
+	}]
+}
